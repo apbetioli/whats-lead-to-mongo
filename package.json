@@ -1,0 +1,15 @@
+{
+  "name": "whats-lead-to-mongo",
+  "version": "1.0.0",
+  "description": "Reads a WhatsApp group log and saves into mongodb",
+  "main": "app.js",
+  "author": "A Betioli",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "md5": "^2.3.0",
+    "moment": "^2.29.1",
+    "mongodb": "^4.4.0",
+    "readline": "^1.3.0"
+  }
+}
